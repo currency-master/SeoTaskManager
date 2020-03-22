@@ -14,3 +14,4 @@ Solution of the ZennoLab task
 Solution:
 Выполнено ввиде Swagger спеки без реалезации методов с минимумом коментариев по предпологаемым путям решения.
 
+https://clip2net.com/s/46zfw22
