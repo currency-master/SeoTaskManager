@@ -1,5 +1,3 @@
-Solution of the ZennoLab task
-
 Task:
 Make a backend to a service on ASP.NET Core 2+.
 
